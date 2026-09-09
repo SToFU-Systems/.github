@@ -16,7 +16,7 @@ We work with code, protocols, kernels, infrastructure, automation, recovery, AI 
 
 Open repositories here are tools, research notes, and technical proofs worth sharing.
 
-Client work, active investigations, and sensitive infrastructure stay private.
+We are always glad to welcome new contributors to our community.
 
 ## Contact
 

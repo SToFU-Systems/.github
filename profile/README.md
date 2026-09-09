@@ -1,20 +1,22 @@
 # SToFU Systems
 
-Senior engineering for cybersecurity, reverse engineering, low-level systems, AI security, and critical software delivery.
+Cybersecurity and systems engineering.
 
-We build, audit, reverse, and harden software where precision matters: product security, low-level components, AI systems, private infrastructure, recovery, and performance-critical engineering.
+We work with code close to risk: protocols, kernels, infrastructure, automation, recovery, AI systems, and software that must behave exactly as intended.
 
-## Focus
+## Work
 
-- Cybersecurity audits, security certification, and product hardening
-- Reverse engineering, vulnerability research, and incident-driven analysis
-- Low-level, kernel, GPU, and performance-critical systems engineering
-- AI security, private AI infrastructure, data leakage prevention, and autonomous AI deployment
-- Engineering leadership for critical software delivery
+- Security audits and hardening
+- Reverse engineering and vulnerability research
+- Low-level, kernel, GPU, and performance engineering
+- Private AI infrastructure and AI security
+- Incident analysis and recovery
 
-## Public Work
+## Public Repositories
 
-This organization contains the visible edge of our engineering work. Public repositories are shared for reusable tooling, research fragments, and open technical signals; client delivery, sensitive research, and defensive operations remain private by design.
+Open repositories here are tools, research notes, and technical proofs worth sharing.
+
+Client work, active investigations, and sensitive infrastructure stay private.
 
 ## Contact
 

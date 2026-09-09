@@ -2,7 +2,7 @@
 
 Cybersecurity and systems engineering.
 
-We work with code close to risk: protocols, kernels, infrastructure, automation, recovery, AI systems, and software that must behave exactly as intended.
+We work with code, protocols, kernels, infrastructure, automation, recovery, AI systems, and software that must behave exactly as intended.
 
 ## Work
 
@@ -20,5 +20,6 @@ Client work, active investigations, and sensitive infrastructure stay private.
 
 ## Contact
 
+E-mail: midgard@stofu.io
 Website: https://stofu.io  
 LinkedIn: https://www.linkedin.com/company/stofu-systems

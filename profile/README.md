@@ -21,5 +21,5 @@ Client work, active investigations, and sensitive infrastructure stay private.
 ## Contact
 
 Website: https://stofu.io  
-LinkedIn: https://www.linkedin.com/company/stofu-systems
+LinkedIn: https://www.linkedin.com/company/stofu-systems  
 E-mail: midgard@stofu.io
